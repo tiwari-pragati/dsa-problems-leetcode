@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2737-row-with-maximum-ones](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
@@ -16,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
