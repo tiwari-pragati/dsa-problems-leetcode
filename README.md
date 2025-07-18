@@ -16,6 +16,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
