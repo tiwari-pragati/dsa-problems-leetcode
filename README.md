@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
