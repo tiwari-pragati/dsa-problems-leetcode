@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2737-row-with-maximum-ones](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2737-row-with-maximum-ones](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Binary Search
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
