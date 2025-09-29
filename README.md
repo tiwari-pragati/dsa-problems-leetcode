@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0118-pascals-triangle) |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2737-row-with-maximum-ones](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
