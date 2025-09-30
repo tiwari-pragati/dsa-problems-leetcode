@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0118-pascals-triangle) |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0031-next-permutation) |
 | [0908-middle-of-the-linked-list](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
