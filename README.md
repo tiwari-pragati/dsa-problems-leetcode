@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0118-pascals-triangle) |
 | [0792-binary-search](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0792-binary-search) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tiwari-pragati/dsa-problems-leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
